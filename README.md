@@ -1,6 +1,7 @@
 ### Objetivo:
 
 - Gerar modelos de forecast.
+- Consolidar conhecimentos obtidos com a linguagem de programação `R`.
 
 #### Tarefas:
 
