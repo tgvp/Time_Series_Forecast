@@ -1,6 +1,7 @@
 ### Objetivo:
 
-- Gerar modelos de forecast.
+- Gerar modelos de Forecast.
+- Consolidar conhecimentos com o Estudo e Análise de Séries Temporais.
 - Consolidar conhecimentos obtidos com a linguagem de programação `R`.
 
 #### Tarefas:
