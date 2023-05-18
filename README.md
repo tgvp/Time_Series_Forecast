@@ -25,3 +25,6 @@
   - [X] 4.1. Usar métodos baseline para forecast (média, drift, naive, seasonal_naive)
   - [X] 4.2. Usar o modelo TSLM
   - [X] 4.3. Avalie as previsões
+- ** 5. Construir pipeline com modelos básicos do problema
+  - [ ] 5.1. Qual problema posso resolver com este dataset?
+  - [ ] 5.2. Analisar e explorar novas features.
