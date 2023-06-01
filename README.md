@@ -30,6 +30,6 @@
   - [X] 5.2. Analisar e explorar novas features.
   - [X] 5.3. Quais features parecem ser interessantes de serem criadas?
   - [X] 5.4. Criar pipeline de preprocessamento e treinamento de modelo.
-  - [ ] 5.5. Avaliar o modelo usando métricas adequadas.
-  - [ ] 5.6. Hyperparameters tunning (extra).
-  - [ ] 5.7. Conclusões.
+  - [X] 5.5. Avaliar o modelo usando métricas adequadas.
+  - [X] 5.6. Hyperparameters tunning (extra).
+  - [X] 5.7. Conclusões.
