@@ -29,7 +29,7 @@
   - [X] 5.1. EDA, alguma nova pergunta surgiu durante o treino do novo modelo?
   - [X] 5.2. Analisar e explorar novas features.
   - [X] 5.3. Quais features parecem ser interessantes de serem criadas?
-  - [ ] 5.4. Criar pipeline de preprocessamento e treinamento de modelo.
+  - [X] 5.4. Criar pipeline de preprocessamento e treinamento de modelo.
   - [ ] 5.5. Avaliar o modelo usando métricas adequadas.
   - [ ] 5.6. Hyperparameters tunning (extra).
   - [ ] 5.7. Conclusões.
